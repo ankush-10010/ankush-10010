@@ -73,5 +73,12 @@
 > I believe coding and lifting share one thing: **consistent daily reps build greatness.**
 
 ---
+---
+
+### 📊 GitHub Stats
+
+![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankush-10010&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-10010&layout=compact&theme=radical)
 
 🛠️ *Built with ❤️ by Ankush*
