@@ -8,57 +8,41 @@
 ### 🚀 About Me
 
 - 🎓 I'm currently an undergrad in **Electrical Engineering** at **IIT Indore**.
-- 🤖 I build ML/DL projects ranging from **medical imaging** to **generative models**.
-- 🧠 Working on Reinforcement Learning and AI-based creative systems.
-- 💻 Passionate about open-source, optimization, and system-level AI deployment.
+- 🤖 I build smart systems across **machine learning**, **automation**, and **robotics**.
+- 💡 Exploring resource-efficient AI, embedded systems, and real-world deployable models.
+- 💻 Passionate about learning by building.
 - 🏋️‍♂️ Fitness enthusiast
 
 ---
 
 ### 🛠️ Projects
 
-Here are some of the projects I've been working on:
+#### 📌 Select Works
 
-#### 💡 Featured Projects
+- **🧠 Brain Tumor Classification**
+  - Achieved 92%+ accuracy using multi-class ML classifiers on medical imaging data.
 
-- **🧠 Alzheimer's Detection**
-  - Hybrid CNN-ViT based diagnosis from MRI/PET scans.
-  - Focus on early detection and model robustness.
-
-- **💹 RL Trading Strategist**
-  - Reinforcement Learning for BTC/ETH trading bots.
-  - Risk-aware, backtested, and continually improving.
-
-- **🎮 Horizon Turbo RL Agent**
-  - Custom RL agent for a car racing environment.
-  - Fast adaptation, high-speed precision.
-
-- **🎨 Generative Alchemy**
-  - AI remake of *Little Alchemy* game using generative image models.
-  - Focus on creativity, consistency, and fun!
-
-- **🖼️ SDXL Knowledge Distillation**
-  - Trained a student model with LDD using perceptual loss.
-  - Resource-efficient inference for image generation.
-
----
-
-### 📂 Other Cool Stuff
-
-- **🧪 Brain Tumor Classification (92%+)**
 - **✋ Gesture-Controlled YouTube Assistant**
-- **🛠️ Line Following Bot with Obstacle Avoidance**
-- **🔒 Personal Encrypted Notes App**
-- **🎯 Daily XP Tracker inspired by *Solo Leveling***
-- **📚 Study Assistant & Fitness AI Agents** *(in progress)*
+  - Combines object detection with hand gestures to automate actions like "Skip Ad" and "Next Video".
+
+- **🤖 Line Following Robot with Extra Features**
+  - Can climb inclines, avoid obstacles using ultrasonic sensors, and includes a custom bonus feature.
+
+- **🛡️ Agent of Justice (Courtroom Simulation with LLMs)**
+  - Simulates a judge, lawyers, plaintiff, and defendant using large language models.
+
+- **🔐 Personal Notes Vault**
+  - Secure personal notebook app for storing private messages, with encryption-based access control.
+
+- **📈 XP Level-Up System (Inspired by Solo Leveling)**
+  - Daily activity tracker that grants XP and levels up based on productivity habits.
 
 ---
 
 ### 🌱 Currently Learning
 
 - 🤖 Reinforcement Learning (RLlib, Stable Baselines3)
-- 🧠 NLP with Transformers (BERT, GPT, etc.)
-- ⚙️ Kernel Engineering & CUDA Programming
+- 📚 Data Structures and Algorithms (DSA)
 
 ---
 
@@ -66,7 +50,7 @@ Here are some of the projects I've been working on:
 
 - 🌐 Website: 
 - 💼 LinkedIn: 
-- 📮 Email: ankushraj2024@gmail.com
+- 📮 Email: 
 
 ---
 
