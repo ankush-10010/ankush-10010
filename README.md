@@ -78,7 +78,8 @@
 
 ### 📊 GitHub Stats
 
-![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankush-10010&show_icons=true&theme=radical)
+![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankush-10010&show_icons=true&theme=radical&title_color=ff79c6&icon_color=50fa7b&text_color=f8f8f2&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-10010&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-10010&layout=compact&theme=radical&title_color=ff79c6&text_color=f8f8f2&bg_color=0d1117)
+
 
