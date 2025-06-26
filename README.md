@@ -57,7 +57,7 @@
 
 ### 🧰 Tech Stack
 
-![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=blue)
+![Python](https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
