@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ankush-10010&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 # Ankush Raj
 
