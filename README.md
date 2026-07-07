@@ -143,9 +143,9 @@ A 3-stage Generative AI pipeline for real-time voice synthesis, deployed serverl
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=ankush-10010&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=22c55e&text_color=e2e8f0&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankush-10010&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=22c55e&text_color=e2e8f0&bg_color=0d1117" alt="GitHub Stats" />
   
   <br/>
 
@@ -153,9 +153,9 @@ A 3-stage Generative AI pipeline for real-time voice synthesis, deployed serverl
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankush-10010&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankush-10010&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&text_color=e2e8f0&bg_color=0d1117" alt="Top Languages" />
 
-</div>
+</p>
 
 ---
 
